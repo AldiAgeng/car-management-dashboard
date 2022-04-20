@@ -84,8 +84,8 @@
 - Update a car : PUT <code>/cars/update/:id</code>
 - Delete a car : DELETE <code>/cars/delete/:id</code>
 
-- Filter size car : GET <code>/cars/search/:size_car</code>
-- Search cars by name and size : GET <code>/cars/search/:q</code>
+- Filter size car : GET <code>/cars/search/?car_size=</code>
+- Search cars by name and size : GET <code>/cars/search/?q=</code>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
