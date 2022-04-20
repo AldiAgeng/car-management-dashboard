@@ -81,7 +81,7 @@
 
 - Get all cars : GET <code>/cars</code>
 - Create a car : POST <code>/cars/create</code>
-- Edit a car : PUT <code>/cars/update/:id</code>
+- Update a car : PUT <code>/cars/update/:id</code>
 - Delete a car : DELETE <code>/cars/delete/:id</code>
 
 - Filter size car : GET <code>/cars/search/:size_car</code>
